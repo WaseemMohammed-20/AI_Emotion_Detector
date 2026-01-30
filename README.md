@@ -32,8 +32,11 @@ streamlit run app.py
 Enter text in English, Hindi, or Telugu
 
 Get the predicted emotion with a confidence score
+
 Example
+
 Input Text (Language)	Predicted Emotion	Confidence
+
 "I am so happy today!" (English)	Happy	0.92
 
 "నాకు నచ్చింది" (Telugu)	Joy	0.88

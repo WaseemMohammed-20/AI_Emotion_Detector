@@ -35,6 +35,9 @@ Get the predicted emotion with a confidence score
 Example
 Input Text (Language)	Predicted Emotion	Confidence
 "I am so happy today!" (English)	Happy	0.92
+
 "నాకు నచ్చింది" (Telugu)	Joy	0.88
+
 "मैं उदास हूँ" (Hindi)	Sad	0.90
+
 Contributions are welcome! Please create an issue or submit a pull request for improvements, bug fixes, or new features.
